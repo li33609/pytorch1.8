@@ -9,7 +9,7 @@ from torchvision import transforms
 import torch.optim.lr_scheduler as lr_scheduler
 
 from Model.EfficientNet_v2 import efficientnetv2_s as create_model
-from DataSet import my_dataset
+from DataSet import my_dataset as MyDataSet
 from utils.utils import read_split_data, train_one_epoch, evaluate
 
 
