@@ -20,3 +20,4 @@ classification
 
 ## 默认开启tensorboard
 * 端口6006
+* runs文件夹为tensorboard项目
