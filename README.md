@@ -17,3 +17,6 @@ classification
 * Resnet系列  
 * VGG系列
 * ShuffleNet
+
+## 默认开启tensorboard
+* 端口6006
