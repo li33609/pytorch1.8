@@ -2,7 +2,7 @@
 * Anaconda3（建议使用）
 * python3.6 / 3.7
 * pycharm (IDE)
-* pytorch 1.6 (pip package)
+* pytorch 1.8.1 (pip package)
 * torchvision 0.7.0 (pip package)
 
 ## 集成了经典的分类模型
